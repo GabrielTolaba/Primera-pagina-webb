@@ -1,7 +1,8 @@
-.container-nav {
+.container-nav2 {
     display: flex;
     padding: 10px;
     height: 50px;
+    width: 1350px;
     background-color: black;
   }
   
@@ -96,7 +97,7 @@
           
           
             .button-menu-toggle {
-              display: block;
+              display: flex;
               background-color: white;
               border:none;
               border-radius: 50px;
@@ -126,4 +127,8 @@
           .imagenes-1 {
             display:flex;
             flex-wrap: wrap-reverse;
+          }
+          .boca{
+            text-align: center;
+    
           }
